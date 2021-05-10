@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>pinus.30.jpeg</filename>
-	<path>data/train/pinus.30.jpeg</path>
+	<path>/home/eco/code/python/AutoCrawler/data/train/pinus.30.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
