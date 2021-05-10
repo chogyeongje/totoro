@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>platanus.33.jpeg</filename>
+	<path>data/train/platanus.33.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>10</ymin>
+			<xmax>326</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

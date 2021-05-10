@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cherry.19.jpeg</filename>
+	<path>data/train/cherry.19.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>241</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

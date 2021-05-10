@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pinus.48.jpeg</filename>
+	<path>data/train/pinus.48.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>2</ymin>
+			<xmax>246</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
