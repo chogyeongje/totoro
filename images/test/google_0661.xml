@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>google_0661.jpg</filename>
+	<path>/home/eco/code/python/AutoCrawler/garden_data/train/google_0661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>2</ymin>
+			<xmax>511</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

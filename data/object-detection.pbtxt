@@ -7,3 +7,8 @@ item {
     name:'tree'
 }
 
+item {
+    id: 2
+    name: 'bush'
+}
+
