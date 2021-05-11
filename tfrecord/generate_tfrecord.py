@@ -39,8 +39,8 @@ def class_text_to_int(row_label):
     #     None
     if row_label == 'tree':
         return 1
-	elif row_label == 'bush':
-		return 2
+    elif row_label == 'bush':
+        return 2
     else:
         None
 
